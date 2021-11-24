@@ -12,3 +12,5 @@
 127.0.0.1	aria.microsoft.com
 127.0.0.1	msftspeechmodelsprod.azureedge.net
 127.0.0.1	dmd.metaservices.microsoft.com
+# error reporting back to microsoft introduced and visible in 21H1/21H2
+127.0.0.1	telecommand.telemetry.microsoft.com
