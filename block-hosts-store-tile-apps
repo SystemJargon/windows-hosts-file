@@ -1,0 +1,18 @@
+# Sourced via example of 20H2 and https://docs.microsoft.com/en-us/windows/privacy/manage-windows-20h2-endpoints
+127.0.0.1	tile-service.weather.microsoft.com
+127.0.0.1	cdn.onenote.net
+127.0.0.1	evoke-windowsservices-tas.msedge.net
+127.0.0.1	www.bing.com
+127.0.0.1	fp.msedge.net
+127.0.0.1	I-ring.msedge.net
+127.0.0.1	s-ring.msedge.net
+127.0.0.1	msedge.api.cdp.microsoft.com
+127.0.0.1	img-prod-cms-rt-microsoft-com.akamaized.net
+127.0.0.1	livetileedge.dsx.mp.microsoft.com
+127.0.0.1	wns.windows.com
+127.0.0.1	storecatalogrevocation.storequality.microsoft.com
+127.0.0.1	manage.devcenter.microsoft.com
+127.0.0.1	displaycatalog.mp.microsoft.com
+127.0.0.1	pti.store.microsoft.com
+127.0.0.1	share.microsoft.com
+127.0.0.1	manage.devcenter.microsoft.com
