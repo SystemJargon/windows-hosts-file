@@ -8,6 +8,7 @@
 127.0.0.1	smartscreen-prod.microsoft.com
 127.0.0.1	checkappexec.microsoft.com
 127.0.0.1	settings-win.data.microsoft.com
+127.0.0.1	settings.data.microsoft.com
 127.0.0.1	aria.microsoft.com
 127.0.0.1	msftspeechmodelsprod.azureedge.net
 127.0.0.1	dmd.metaservices.microsoft.com
