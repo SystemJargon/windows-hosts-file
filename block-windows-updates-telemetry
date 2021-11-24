@@ -1,0 +1,23 @@
+## block windows updates and telemetry (best effort)
+127.0.0.1	windowsupdates.com
+127.0.0.1	windowsupdate.com
+127.0.0.1	update.microsoft.com
+127.0.0.1	windowsupdate.microsoft.com
+127.0.0.1	microsoftupdate.com
+127.0.0.1	prod.do.dsp.mp.microsoft.com
+127.0.0.1	emdl.ws.microsoft.com
+127.0.0.1	dl.delivery.mp.microsoft.com
+127.0.0.1	delivery.mp.microsoft.com
+127.0.0.1	adl.windows.com
+127.0.0.1	tsfe.trafficshaping.dsp.mp.microsoft.com
+127.0.0.1	ctldl.windowsupdate.com
+127.0.0.1	sls.update.microsoft.com.akadns.net 
+127.0.0.1	sls.update.microsoft.com
+127.0.0.1	fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+127.0.0.1	v10.events.data.microsoft.com
+127.0.0.1	watson.telemetry.microsoft.com
+127.0.0.1	checkappexec.microsoft.com
+127.0.0.1	settings-win.data.microsoft.com
+127.0.0.1	aria.microsoft.com
+127.0.0.1	msftspeechmodelsprod.azureedge.net
+127.0.0.1	us-v20.events.data.microsoft.com
